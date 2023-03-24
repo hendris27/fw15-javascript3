@@ -16,7 +16,7 @@ const cekHariKerja = (day) => {
 }
 
 
-cekHariKerja('senin')
+cekHariKerja('sabtu')
     .then(function (result) {
         console.log("Data berhasil ditemukan:", result);
     })
